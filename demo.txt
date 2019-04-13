@@ -1,2 +1,4 @@
 New file
 changes made to new file
+
+Another change made to new file
