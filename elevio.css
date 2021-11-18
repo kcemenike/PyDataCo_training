@@ -1,4 +1,9 @@
 #_elev_io > div > div._1mkxc._92161._elevio_article_title {
-  text-align: center;
-  color: rgb(32, 95, 104);
+  text-align: center !important;
+  color: rgb(32, 95, 104) !important;
+}
+
+#_elev_io ._elevio_article_title {
+  text-align: center !important;
+  color: rgb(32, 95, 104) !important;
 }
